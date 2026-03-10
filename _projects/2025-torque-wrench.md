@@ -22,7 +22,7 @@ My final project in Mechanics of Materials (MAE 3270) was to design a torque wre
 </div>
 
 **My biggest takeaways:**<br>
-This project gave me experience selecting materials based on their properties. It also made me aware of how the boundary conditions of an FEM model can significantly impact stress calculations, both with artificial stress singularities and due to localized stress concentrations. 
+This project gave me experience selecting materials based on their properties. I also became aware of how the boundary conditions of an FEA can significantly impact stress calculations, both with artificial stress singularities and due to localized stress concentrations. 
 
 <div style="clear: both"></div>
 **My final report:**

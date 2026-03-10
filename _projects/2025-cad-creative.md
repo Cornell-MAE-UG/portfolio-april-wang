@@ -5,7 +5,7 @@ description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/staple-remover/staple-remover-render1.png
 ---
-For my Intro to Mechancial Design class, we were asked to CAD and render a challenging and interesting object of our choice. I started by drawing sketches of the object by hand, then designed and rendered the parts in Fusion 360. 
+For my Intro to Mechancial Design class, we were asked to **CAD and render a challenging and interesting object** of our choice. I started by drawing sketches of the object by hand, then designed and rendered the parts in Fusion 360. 
 
 <div style="clear: both"></div>
 ![Photo of staple remover]({{ "/assets/images/staple-remover/staple-remover-image.jpg" | relative_url }}){: .inline-image-r style="width: 150px"}
